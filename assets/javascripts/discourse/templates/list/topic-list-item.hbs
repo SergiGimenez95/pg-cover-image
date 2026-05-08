@@ -1,0 +1,8 @@
+<div class="pg-card-image">
+  {{#if pg_cover_image}}
+    <img src="{{pg_cover_image}}" loading="lazy">
+  {{/if}}
+</div>
+
+{{! Render original contenido de la fila }}
+{{yield}}
