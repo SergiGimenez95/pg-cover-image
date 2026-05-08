@@ -1,0 +1,7 @@
+{
+  "name": "pg-cover-image",
+  "about": "Permite elegir una imagen de portada al crear un tema y mostrarla en la lista",
+  "version": "0.1",
+  "authors": ["Sergio", "Copilot"],
+  "url": "https://github.com/SergiGimenez95/pg-cover-image"
+}
